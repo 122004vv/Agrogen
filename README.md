@@ -1,6 +1,6 @@
 # Agrogen: Revolutionizing Agriculture with Technology 🌱
 
-Agrogen is a MERN stack project developed by our dedicated team to address critical challenges faced in the agricultural sector, particularly in facilitating communication between farmers and vendors.
+Agrogen is a MERN stack project developed by our dedicated team members to address critical challenges faced in the agricultural sector, particularly in facilitating communication between farmers and vendors.
 
 ## Problem Statement
 Farmers often lack direct access to markets, leading to significant crop wastage, inefficient transaction processes, and price volatility.
