@@ -1,0 +1,31 @@
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dashboard-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.dashboard-parts {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.dashboard-part {
+    margin: 7px 10px;
+    padding: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.dashboard-part:hover {
+    background-color: #f0f0f0;
+}
